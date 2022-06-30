@@ -16,7 +16,9 @@ Basta criar um perfil no gitHub pelo link:
 [Site do GitHub](https://github.com/)
 
 Os usuarios podem fazer a cópia de um link gerado pelo site do GitHub, https é o sugerido como padrão.
+
 crie uma pasta no meu computador para projeto e abra o GitBash na pasta.
+
 Use o comando Git clone e cole o link ( ctrl+v ).
 
 
