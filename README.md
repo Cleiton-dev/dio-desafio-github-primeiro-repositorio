@@ -15,11 +15,14 @@ Basta criar um perfil no gitHub pelo link:
 
 [Site do GitHub](https://github.com/)
 
-Os usuarios podem fazer a cópia com o comando clone + link do comando git.
+Os usuarios podem fazer a cópia de um link gerado pelo site do GitHub, https é o sugerido como padrão.
+crie uma pasta no meu computador para projeto e abra o GitBash na pasta.
+Use o comando Git clone e cole o link ( ctrl+v ).
 
-[Meu repositório](https://github.com/Cleiton-dev/dio-desafio-github-primeiro-repositorio/edit/main/README.md)
 
-## Links úteis
+
+## Links utilizados.
+[Site do GitHub](https://github.com/)
 
 [Sintaxe Basica MarkDown](https://www.markdownguide.org/getting-started/)
 
