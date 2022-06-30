@@ -13,17 +13,17 @@ na criação básica de um repositório no GitHub.
 ## Como iniciar um projeto:
 Basta criar um perfil no gitHub pelo link:
 
-[Site do GitHub]{https://github.com/}
+[Site do GitHub](https://github.com/)
 
 Os usuarios podem fazer a cópia com o comando clone + link do comando git.
 
-[Meu repositório]{https://github.com/Cleiton-dev/dio-desafio-github-primeiro-repositorio/edit/main/README.md}
+[Meu repositório](https://github.com/Cleiton-dev/dio-desafio-github-primeiro-repositorio/edit/main/README.md)
 
 ## Links úteis
 
-[Sintaxe Basica MarkDown]{https://www.markdownguide.org/getting-started/}
+[Sintaxe Basica MarkDown](https://www.markdownguide.org/getting-started/)
 
-[Meu repositório]{https://github.com/Cleiton-dev/dio-desafio-github-primeiro-repositorio/edit/main/README.md}
+[Meu repositório](https://github.com/Cleiton-dev/dio-desafio-github-primeiro-repositorio/edit/main/README.md)
 
 # Como manipular e administrar na sua máquina pessoal:
 
