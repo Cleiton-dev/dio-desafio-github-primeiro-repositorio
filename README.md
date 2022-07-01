@@ -11,15 +11,17 @@ Uns dos propósitos é avaliar o meu conhecimento obtido no curso, e os comando 
 na criação básica de um repositório no GitHub.
 
 ## Como iniciar um projeto:
-Basta criar um perfil no gitHub pelo link:
+Basta criar um perfil no GitHub pelo link:
 
 [Site do GitHub](https://github.com/)
 
-Os usuarios podem fazer a cópia de um link gerado pelo site do GitHub, https é o sugerido como padrão.
+[versão para desktop](https://desktop.github.com/)
 
-crie uma pasta no meu computador para projeto e abra o GitBash na pasta.
+Os usuários podem fazer a cópia de um link gerado pelo site do GitHub, https é o sugerido como padrão.
 
-Use o comando ### Git clone e cole o link ( ctrl+v ).
+crie uma pasta no computador para o projeto e abra o GitBash na pasta.
+
+Use o comando Git clone e cole o link .
 
 
 
