@@ -35,6 +35,12 @@ os usuários podem fazer a cópia de um link gerado pelo site do GitHub, https �
 e depois crie um aquivo de texto contendo anotações contendo algumas coisas que podem ser relevantes ao que foi proposto em 
 seu repositório.
 
+  Dando um novo git status irá aparecer a pasta em vermelho para inserir no controle de versão, para isso usaremos o comando git add . ,logo após, dando um novo git status ele indentifica em verde que o arquivo criado está inserido na pasta local, próximo passo será o comando git commit -m "descrição da pasta de arquivo".
+  
+  Para jogar o que foi criado para o repositório do github na nurvem teremos que dá um Push. com o comando git push origin main 
+  
+  
+
 
 ## Links utilizados e relevantes.
 
