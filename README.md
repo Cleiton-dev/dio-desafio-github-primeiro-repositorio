@@ -35,6 +35,7 @@ os usuários podem fazer a cópia de um link gerado pelo site do GitHub, https �
 e depois crie um aquivo de texto contendo anotações contendo algumas coisas que podem ser relevantes ao que foi proposto em 
 seu repositório.
 
+
 ## Links utilizados e relevantes.
 
 [Site do GitHub](https://github.com/)
