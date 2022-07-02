@@ -1,5 +1,12 @@
 # Desafio de Projeto sobre Git/GitHub da DIO
-## Sobre o projeto.
+ ## Sobre mim:
+ Sou Cleiton silva, 35 anos de castanhal,PA. trabalho n expedição da distribuidora de medicamento nazária em minha cidade, estou no no quarto semestre no curso de analíse e desenvolvimento de sistemas na Faculdade FAEL, meus hobbies são skate, futebol e Games (PUBG, CS GO e WARZONE).
+ 
+ Me escrevi no bootcamp da DIO pois vi uma oportunidade de agregar mais conhecimento sobre a área de desenvolvimento web,sendo que já desenvolvi alguns  projetos e o curso fullstack da Dio concerteza irá melhora meu curriculo para me tornar um profissional melhor.
+ 
+ 
+ 
+ ## Sobre o projeto.
 
   O objetivo do projeto e reforçar oque foi ensinado no treinamento de Git/Github
 em um desafio prático. tendo em vista o passo a passo da criação, desenvolvimento 
@@ -37,11 +44,8 @@ seu repositório.
 
   Dando um novo git status irá aparecer a pasta em vermelho para inserir no controle de versão, para isso usaremos o comando git add . ,logo após, dando um novo git status ele indentifica em verde que o arquivo criado está inserido na pasta local, próximo passo será o comando git commit -m "descrição da pasta de arquivo".
   
-  Para jogar o que foi criado para o repositório do github na nurvem teremos que dá um Push. com o comando git push origin main 
-  
-  
-
-
+  Para jogar o que foi criado para o repositório do github na nurvem teremos que dá um Push. com o comando git push origin main que leva nossos aquivos para o nosso repositório on-line no GitHub, dando um F5 irá notar que o arquivo foi devidamente upando no site.
+ 
 ## Links utilizados e relevantes.
 
 [Site do GitHub](https://github.com/)
